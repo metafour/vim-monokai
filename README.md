@@ -5,5 +5,5 @@ default iterm2 theme. Minor changes were made to fix those issues.
 
 ## Elements changed
 
-Normal
-NonText
+Normal  
+NonText  
