@@ -7,3 +7,14 @@ default iterm2 theme. Minor changes were made to fix those issues.
 
 Normal  
 NonText  
+
+## Screenshots
+
+Before:
+
+!["before"](http://metafour.github.io/vim-monokai/before.png)
+
+After:
+
+
+!["after"](http://metafour.github.io/vim-monokai/after.png "After")
